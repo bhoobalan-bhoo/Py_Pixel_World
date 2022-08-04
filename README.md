@@ -13,3 +13,8 @@ What is our project called? - 'Cut out, Mirroring and Inverse Photoshop with Pyt
 
 Ready to play with pixels!
 
+## Initialized 
+
+Working with tkinder 
+
+
